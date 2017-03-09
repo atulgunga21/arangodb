@@ -182,6 +182,7 @@ SET(ARANGOD_SOURCES
   Cache/PlainCache.cpp
   Cache/Rebalancer.cpp
   Cache/State.cpp
+  Cache/Table.cpp
   Cache/Transaction.cpp
   Cache/TransactionalBucket.cpp
   Cache/TransactionalCache.cpp
